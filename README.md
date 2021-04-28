@@ -1,5 +1,5 @@
 # eyes
- <img src="https://github.com/Lviiin/lviiin.github.io/tree/main/assets/img/eyes.JPG" width="300" />
+ <img src="eyes.JPG" width="300" />
 This project was assigned via MIT xPROs Full Stack Developer Professional Certification. This app displays eyes that follow the cursor around the screen!
 
 Viewing This Project
